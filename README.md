@@ -24,4 +24,4 @@ An autonomous robot that climbs a 2.2 m pipe and lifts a chain, with analogue co
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/yousef-chitani)
+[yousefchitani.com](https://yousefchitani.com) · [LinkedIn](https://www.linkedin.com/in/yousef-chitani)
