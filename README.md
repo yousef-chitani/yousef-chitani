@@ -10,7 +10,7 @@ Reverse-engineered Xbox and GameCube button mechanisms. Designed module and daug
 **Camera Slider Belt-Drive Retrofit** (2026 – present)
 Designing a belt drive and RP2040 controller for a manual camera slider in Autodesk Fusion, with a costed BOM and BS 8888 drawings. Writing the motion-control firmware in C++ and testing repeatability against a ±0.05 mm target with a dial gauge.
 
-**IMechE Pipe Climber 2026** (Jan – Jun 2026)
+**IMechE Pipe Climber 2026** (Jan 2026 – Jun 2026)
 An autonomous robot that climbs a 2.2 m pipe and lifts a chain, with analogue control only. Team of six. I designed the acrylic and PLA chassis around a removable motor and battery cassette, and produced all the CAD in Fusion.
 
 ## Skills
